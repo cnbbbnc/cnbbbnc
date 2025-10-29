@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Spring Boot  
 💬 Ask me about backend development  
-📫 How to reach me: yuhngchen@gmail.com  
+📫 How to reach me: yuhsngchen@gmail.com  
 
 # :computer: My skill set
 
